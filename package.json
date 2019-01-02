@@ -1,14 +1,14 @@
 {
   "name": "TestingWhiz",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "description": "Testing Whiz Application",
   "license": "MIT",
   "author": "Shailesh <umesh_vyas44@hotmail.com>",
-  "email":"umesh_vyas44@hotmail.com",
+  "email": "umesh_vyas44@hotmail.com",
   "main": "main.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:UmeshVyas/electron-testingwhiz.git"
+    "url": "git@github.com:UmeshVyas/electron-testingwhiz-linux.git"
   },
   "scripts": {
     "ng": "ng",
@@ -97,6 +97,8 @@
     "electron-is-dev": "^1.0.1",
     "electron-log": "^2.2.17",
     "electron-updater": "^4.0.4",
+    "font-awesome": "^4.7.0",
+    "primeng": "^7.0.3",
     "rxjs": "^5.5.6",
     "zone.js": "^0.8.19"
   },
