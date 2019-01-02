@@ -1,9 +1,10 @@
 {
   "name": "TestingWhiz",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "description": "Testing Whiz Application",
   "license": "MIT",
-  "author": "Shailesh",
+  "author": "Shailesh <umesh_vyas44@hotmail.com>",
+  "email":"umesh_vyas44@hotmail.com",
   "main": "main.js",
   "repository": {
     "type": "git",
@@ -93,7 +94,6 @@
     "@angular/platform-browser-dynamic": "^5.2.0",
     "@angular/router": "^5.2.0",
     "core-js": "^2.4.1",
-  
     "electron-is-dev": "^1.0.1",
     "electron-log": "^2.2.17",
     "electron-updater": "^4.0.4",
