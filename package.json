@@ -1,6 +1,6 @@
 {
   "name": "TestingWhiz",
-  "version": "0.2.8",
+  "version": "0.2.9",
   "description": "Testing Whiz Application",
   "license": "MIT",
   "author": "Shailesh <umesh_vyas44@hotmail.com>",
@@ -71,8 +71,8 @@
       ]
     },
     "linux": {
-      "target": [        
-        "deb"
+      "target": [
+        "AppImage"        
       ]
     },
     "win": {
